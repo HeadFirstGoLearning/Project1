@@ -4,8 +4,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/HeadFirstGoLearning/Project1/keyboard"
+	"github.com/HeadFirstGoLearning/keyboard"
 )
+
 
 func main() {
 	fmt.Print("Enter a temperature in Fahrenheit: ")
